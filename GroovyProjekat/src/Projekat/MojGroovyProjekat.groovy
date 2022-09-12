@@ -72,7 +72,7 @@ class MojGroovyProjekat {
                 println("Kupiti 200 grama " + bombona.naziv + " sa " + bombona.sadrzajSecera + "% secera")
             }
         }
-        //proba123
+        //proba1234
 
     }
 }
